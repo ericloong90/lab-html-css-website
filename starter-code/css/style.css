@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  border-top: 3px solid grey;
+  border-bottom: 2px solid grey;
+  margin: 25px 20px;
+  padding: 25px;
+  font-weight: 100;
+}
+
+div a {
+  margin: 0 18%;
+  font-weight: 100;
+  text-decoration: none;
+  font-size: 18px;
+  text-align: center;
+  color: black;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+h2 {
+  font-weight: 100;
+  text-align: left;
+  margin-left: 5%
+}
+
+p {
+  margin: 15px 200px 0 10px;
+}
+
+li {
+  margin: 0 40px;
+  display: inline;
+}
+
+li > a {
+  text-decoration: none;
+  color: black;
+}
+
+ul {
+  padding: 20px 50px;
+}

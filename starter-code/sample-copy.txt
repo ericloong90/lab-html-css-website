@@ -24,7 +24,7 @@ Web Developer, Startup Matchmaker 2015 - present
 Used a design team's wireframes to develop this company's responsive homepage.
 
 Web Developer, CitiPix 2015 – present
-Built web app prototype that allows users to store and quickly retrieve photos using keywords.
+  Built web app prototype that allows users to store and quickly retrieve photos using keywords.
 
 
 EDUCATION
